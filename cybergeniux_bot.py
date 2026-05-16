@@ -20,7 +20,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot Token
-TOKEN = "8170127374:AAGv0h8XQqP3EV9Rh0x0h8XQqP3EV9Rh0x0"
+TOKEN = "8447636143:AAFSPFHmrD7vYXDIM1DvEwGK_i8dKzr2p2U"
 
 # ========== COMMAND HANDLERS ==========
 
