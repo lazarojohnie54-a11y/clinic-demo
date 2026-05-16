@@ -1,0 +1,1 @@
+console.log("Karibu Kliniki Bora Tanzania! Tuko hapa kuhudumia afya yako.");
